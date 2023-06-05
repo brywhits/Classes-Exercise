@@ -1,0 +1,15 @@
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.dll
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.dll
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/obj/Debug/net6.0/refint/Classes.dll
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/Users/bryantwhitsett/repos/Classes-Exercise/Classes/obj/Debug/net6.0/ref/Classes.dll
